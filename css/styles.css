@@ -17,7 +17,52 @@ color: #434455;
 }
 
 /* Portfolio */
-
+.main-one {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.main-one:hover,
+.main-one:focus {
+  color: #404bbf;
+}
+.main-two {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.main-two:hover,
+.main-two:focus {
+  color: #404bbf;
+}
+.main-tree {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.main-tree:hover,
+.main-tree:focus {
+  color: #404bbf;
+}
+.adress {
+  font-style: normal;
+}
+.mail {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.mail:hover,
+.mail:focus {
+color: #404bbf;
+} 
 .list{
   list-style: none;
   }
@@ -31,6 +76,9 @@ color: #434455;
   text-transform: uppercase;
   color: #4d5ae5;
   list-style: none;
+}
+.logo-tree {
+  color: #2e2f42;
 }
 .logo-four {
 color:  #f4f4fd;
