@@ -41,28 +41,6 @@ color: #434455;
 .main-one:focus {
   color: #404bbf;
 }
-.main-two {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.main-two:hover,
-.main-two:focus {
-  color: #404bbf;
-}
-.main-tree {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.main-tree:hover,
-.main-tree:focus {
-  color: #404bbf;
-}
 .adress {
   font-style: normal;
 }
