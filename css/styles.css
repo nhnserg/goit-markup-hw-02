@@ -1,21 +1,10 @@
 :root {
 
 }
-
 body { 
 background-color: #ffffff; 
 font-family: 'Roboto', sans-serif;
 color: #434455;
-}
-.logo {
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4D5AE5;
 }
 .menu {
   list-style: none;
