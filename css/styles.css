@@ -30,7 +30,7 @@ color: #434455;
   color: #2e2f42;
 }
 .logo {
-color: #f4f4fd;
+color: #2e2f42;
 }
 .back {
   background-color: #2e2f42;
@@ -50,4 +50,9 @@ color: #f4f4fd;
   color: #FFFFFF;
   background-color: #404BBF;
   
+}
+.text {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
