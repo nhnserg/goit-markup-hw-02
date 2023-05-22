@@ -5,6 +5,28 @@ background-color: #ffffff;
 font-family: 'Roboto', sans-serif;
 color: #434455;
 }
+.section {
+  background-color: #2e2f42;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.button-two {
+  background-color: #4D5AE5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.button-two:hover,
+.button-two:focus {
+  background-color: #404BBF;
+}
 .menu {
   list-style: none;
 }
