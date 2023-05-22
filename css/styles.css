@@ -15,6 +15,7 @@ color: #434455;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+  list-style: none;
 }
 .menu {
   list-style: none;
@@ -31,4 +32,20 @@ color: #434455;
 }
 .back {
   background-color: #2e2f42;
+}
+.button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  cursor: pointer;
+}
+.button .link:hover,
+.button .link:focus {
+  color: #FFFFFF;
+  background-color: #404BBF;
+  
 }
