@@ -1,5 +1,5 @@
 :root {
- color: #4d5ae5 (logo);
+  --logo_color: blue;
 
 
 }
@@ -7,6 +7,9 @@ body {
 background-color: #ffffff; 
 font-family: 'Roboto', sans-serif;
 color: #434455;
+}
+.list{
+  list-style: none;
 }
 .link {
   text-decoration: none;
@@ -30,7 +33,7 @@ color: #434455;
   color: #2e2f42;
 }
 .logo {
-color: #2e2f42;
+color:  #f4f4fd;
 }
 .back {
   background-color: #2e2f42;
