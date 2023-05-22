@@ -5,9 +5,22 @@ background-color: #ffffff;
 font-family: 'Roboto', sans-serif;
 color: #434455;
 }
-.list{
+.menu {
   list-style: none;
 }
+.menu-nav {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+/* Portfolio */
+
+.list{
+  list-style: none;
+  }
 .link {
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
@@ -18,16 +31,6 @@ color: #434455;
   text-transform: uppercase;
   color: #4d5ae5;
   list-style: none;
-}
-.menu {
-  list-style: none;
-}
-.menu-nav {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 .logo-four {
 color:  #f4f4fd;
@@ -45,11 +48,76 @@ color:  #f4f4fd;
   background-color: #f4f4fd;
   cursor: pointer;
 }
-.button .link:hover,
-.button .link:focus {
+.button:hover,
+.button:focus {
   color: #FFFFFF;
   background-color: #404BBF;
-  
+
+}
+.button-two {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  cursor: pointer;
+
+}
+.button-two:hover,
+.button-two:focus {
+  color: #FFFFFF;
+  background-color: #404BBF;
+
+}
+.button-tree {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  cursor: pointer;
+}
+.button-tree:hover,
+.button-tree:focus {
+  color: #FFFFFF;
+  background-color: #404BBF;
+}
+.button-four {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  cursor: pointer;
+
+}
+.button-four:hover,
+.button-four:focus {
+  color: #FFFFFF;
+  background-color: #404BBF;
+
+}
+.button-five {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  cursor: pointer;
+}
+.button-five:hover,
+button-five:focus {
+  color: #FFFFFF;
+  background-color: #404BBF;
+
 }
 .text {
   line-height: 1.5;
