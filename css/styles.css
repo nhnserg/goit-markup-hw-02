@@ -1,4 +1,6 @@
 :root {
+ color: #4d5ae5 (logo);
+
 
 }
 body { 
@@ -28,7 +30,7 @@ color: #434455;
   color: #2e2f42;
 }
 .logo {
- color: #4d5ae5;
+color: #f4f4fd;
 }
 .back {
   background-color: #2e2f42;
