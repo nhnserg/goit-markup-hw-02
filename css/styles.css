@@ -87,7 +87,7 @@ color: #FFFFFF;}
       cursor: pointer;
 }
 
-.main-btn:hover, .hero-btn:focus {
+.main-btn:hover, .main-btn:focus {
   background: #404BBF;
 }
 
@@ -184,3 +184,6 @@ color: #FFFFFF;}
       letter-spacing: 0.02em;
       color: var(--scnd-text-color);
 }
+.team {
+    background: #F4F4FD;
+  }
