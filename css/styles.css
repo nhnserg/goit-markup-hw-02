@@ -145,7 +145,6 @@ body {
 }
 
 .thrd-ttl {
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -194,7 +193,6 @@ body {
   background: #F4F4FD;
 }
 .portfolio-item {
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
